@@ -7,7 +7,7 @@
 **WennMarcoRTX** - one of the developers of neural networks who is now obsessed with chess, and uses his skills in programming neural networks to create chess engines.
 
 ## My top
-[![MarcoEngine](https://github-readme-stats.vercel.app/api/pin/?username=WennMarcoRTX&repo=MarcoEngine&theme=gradient)](https://github.com/WennMarcoRTX/MarcoEngine)
+[![MarcoEngine](https://github-readme-stats.vercel.app/api/pin/?username=WennMarcoRTX&repo=MarcoEngine&theme=radical)](https://github.com/WennMarcoRTX/MarcoEngine)
 
 ## 🔥 Plans
 - [ ] Create UCI accepting in __MarcoEngine__.
