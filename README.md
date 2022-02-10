@@ -1,1 +1,7 @@
-One of the main developers at *MarcoNIT*. I know **Python** and **C++**. I write chess engines on Python..
+# MarcoNIT
+
+**WennMarcoRTX** - one of the developers of neural networks who is now obsessed with chess, and uses his skills in programming neural networks to create chess engines.
+
+
+## 🔥 Plans
+- [x] Create UCI accepting in __MarcoEngine__.
