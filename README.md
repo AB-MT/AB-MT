@@ -4,4 +4,4 @@
 
 
 ## 🔥 Plans
-- [x] Create UCI accepting in __MarcoEngine__.
+- [] Create UCI accepting in __MarcoEngine__.
