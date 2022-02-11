@@ -11,5 +11,4 @@
 
 ## 🔥 Plans
 - [ X ] Create UCI accepting in __MarcoEngine__.
-- [ ] Do my homework.
 - [ X ] Add build system for __MarcoEngine__.
