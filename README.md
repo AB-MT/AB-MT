@@ -10,4 +10,6 @@
 [![MarcoEngine](https://github-readme-stats.vercel.app/api/pin/?username=WennMarcoRTX&repo=MarcoEngine&theme=radical)](https://github.com/WennMarcoRTX/MarcoEngine)
 
 ## 🔥 Plans
-- [ ] Create UCI accepting in __MarcoEngine__.
+- [ X ] Create UCI accepting in __MarcoEngine__.
+- [ ] Do my homework.
+- [ X ] Add build system for __MarcoEngine__.
