@@ -1,5 +1,5 @@
 # 📃 MarcoNIT
-
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ![WennMarcoRTX stats](https://github-readme-stats.vercel.app/api?username=WennMarcoRTX&show_icons=true&theme=radical)
