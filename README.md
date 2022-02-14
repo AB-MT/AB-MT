@@ -16,3 +16,7 @@
 ## 🔥 Plans
 - [X] Create UCI accepting in __MarcoEngine__.
 - [X] Add build system for __MarcoEngine__.
+
+## Stats
+
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
