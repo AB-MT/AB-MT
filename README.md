@@ -19,4 +19,4 @@
 
 ## Stats
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Stargazers over time](https://starchart.cc/WennMarcoRTX/badges.svg)](https://starchart.cc/WennMarcoRTX/badges)
