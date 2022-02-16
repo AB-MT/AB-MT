@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
     
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![I like python))](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     
 </div>
 
