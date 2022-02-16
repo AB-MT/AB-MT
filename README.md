@@ -3,6 +3,8 @@
     <h1>📄 MarcoNIT</h1>
 </div>
 
+<p align="center"><img src="https://gpvc.arturio.dev/WennMarcoRTX"/></p>
+
 <div id="badges" align="center">
     
 ![I like python))](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
