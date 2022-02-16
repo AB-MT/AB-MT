@@ -3,8 +3,11 @@
     <h1>📄 MarcoNIT</h1>
 </div>
 
-
+<div id="badges" align="center">
+    
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    
+</div>
 
 ![WennMarcoRTX stats](https://github-readme-stats.vercel.app/api?username=WennMarcoRTX&show_icons=true&theme=radical)
 
