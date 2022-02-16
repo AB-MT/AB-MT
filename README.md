@@ -1,4 +1,8 @@
-# 📃 MarcoNIT
+<div id="marconit-big-text" align="center">
+    <br/>
+    <h1>📄 MarcoNIT</h1>
+</div>
+
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
