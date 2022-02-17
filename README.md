@@ -11,12 +11,22 @@
     
 </div>
 
+
+<div id="stats 1" align="right">
 ![WennMarcoRTX stats](https://github-readme-stats.vercel.app/api?username=WennMarcoRTX&show_icons=true&theme=radical)
 
+</div>
+
+<div id="stats 2" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WEnnMarcoRTX&layout=compact&theme=radical)](https://github.com/WennMarcoRTX)
 
+</div>
+    
+<div id="stats 3" align="left">
 [![WennMarcoRTX's github streak](https://github-readme-streak-stats.herokuapp.com/?user=WennMarcoRTX&theme=radical)](https://github.com/WennMarcoRTX)
 
+</div>
+  
 **WennMarcoRTX** - one of the developers of neural networks who is now obsessed with chess, and uses his skills in programming neural networks to create chess engines.
 
 ## 🖥️ My top
