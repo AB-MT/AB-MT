@@ -1,6 +1,6 @@
 <div id="marconit-big-text" align="center">
     <br/>
-    <h1>📄 MarcoNIT</h1>
+    <h1>📄 MarcoNITE</h1>
 </div>
 
 <p align="center"><img src="https://gpvc.arturio.dev/WennMarcoRTX"/></p>
