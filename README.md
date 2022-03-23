@@ -16,9 +16,3 @@
    
   
 **WennMarcoRTX** - one of the developers of neural networks who is now obsessed with chess, and uses his skills in programming neural networks to create chess engines.
-
-## 🖥️ My top
-[![MarcoEngine](https://github-readme-stats.vercel.app/api/pin/?username=WennMarcoRTX&repo=AlphaPyZero&theme=radical)](https://github.com/WennMarcoRTX/AlphaPyZero)
-[![Droid Game 3D](https://github-readme-stats.vercel.app/api/pin/?username=WennMarcoRTX&repo=Droid-Game-3D&theme=radical)](https://github.com/WennMarcoRTX/Droid-Game-3D)
-
-
