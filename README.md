@@ -11,8 +11,8 @@
     
 </div>
     
-![WennMarcoRTX stats](https://github-readme-stats.vercel.app/api?username=WennMarcoRTX&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WEnnMarcoRTX&layout=compact&theme=radical)](https://github.com/WennMarcoRTX)
+![WennMarcoRTX stats](https://github-readme-stats.vercel.app/api?username=AB-MT&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-MT&layout=compact&theme=radical)](https://github.com/WennMarcoRTX)
    
   
 **AB-MT** - owner of Teeranu, professional Minetest player, creator of various generation scripts and additional clients to gain an advantage over ordinary players.
