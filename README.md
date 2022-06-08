@@ -22,4 +22,6 @@
 
 **AB-MT** - owner of Teeranu, professional Minetest player, creator of various generation scripts and additional clients to gain an advantage over ordinary players.
 
+## My Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AB-MT)](https://github.com/ryo-ma/github-profile-trophy)
