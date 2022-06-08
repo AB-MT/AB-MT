@@ -17,7 +17,6 @@
     
 ![WennMarcoRTX stats](https://github-readme-stats.vercel.app/api?username=AB-MT&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB-MT&layout=compact&theme=radical)](https://github.com/WennMarcoRTX)
-![snake gif](https://raw.githubusercontent.com/AB-MT/AB-MT/output/github-contribution-grid-snake.svg)
 
 ## Some about me 💬
 
